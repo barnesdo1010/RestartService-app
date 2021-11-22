@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestartService app", "RestartService app\RestartService app.csproj", "{3DDFE88B-4060-4991-8039-9F5DF615CEAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DDFE88B-4060-4991-8039-9F5DF615CEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDFE88B-4060-4991-8039-9F5DF615CEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDFE88B-4060-4991-8039-9F5DF615CEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDFE88B-4060-4991-8039-9F5DF615CEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07A8B580-4B43-4402-87D2-59243524E907}
+	EndGlobalSection
+EndGlobal
